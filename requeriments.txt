@@ -1,4 +1,0 @@
-numpy==1.16.*
-matplotlib==3.*
-statsmodels==0.11.1
-pandas

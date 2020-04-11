@@ -1,0 +1,8 @@
+name: lab_arima
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - statsmodels
+  - pandas
